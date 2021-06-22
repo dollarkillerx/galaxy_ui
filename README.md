@@ -1,2 +1,1 @@
-# galaxy_ui
-galaxy web ui
+# Galaxy UI
